@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-color: rgb(147, 224, 245);
+    color: white;
+}
+#title{
+    font-weight: 600;
+    margin-bottom: 10px;
+}
